@@ -1,0 +1,31 @@
+{
+  "name": "react-native-floating-label",
+  "version": "0.0.1",
+  "description": "A FloatingLabel component for react-native app.The FloatingLabel property creates an Input component, whose Label animates upward when input is selected and animates downward when input is erased. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atran-xn/react-native-floating-label.git"
+  },
+  "keywords": [
+    "animated",
+    "floating",
+    "ios",
+    "label",
+    "react-component",
+    "react-native",
+    "react-native-floating-label",
+    "text field",
+    "text input",
+    "textInput"
+  ],
+  "author": "atran.xn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atran-xn/react-native-floating-label/issues"
+  },
+  "homepage": "https://github.com/atran-xn/react-native-floating-label#readme"
+}
